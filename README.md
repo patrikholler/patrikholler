@@ -21,7 +21,8 @@ Full Stack Software Engineer from Hungary.
 
 ## 🔭 I’m currently working on
 
-[Voxel based](https://voxelbased.com/)
+[Voxel based (voxelbased.com)](https://voxelbased.com/) is an open source voxel algorithms implementations for Unity Engine.
+
 
 ## :chart_with_upwards_trend:     Stats
 
