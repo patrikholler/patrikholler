@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Patrik
 
-Full Stack Software Engineer from Hungary.
+Full Stack Software Engineer from Hungary. :hungary:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrikholler/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChDU4h-QRRytmCZWPDYOQ6w)
