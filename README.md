@@ -26,7 +26,14 @@ Full Stack Software Engineer from Hungary.
 
 ## :chart_with_upwards_trend:     Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=patrikholler&show_icons=true)
-
-<!--
-**patrikholler/patrikholler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrikholler&layout=compact"
+    />
+  <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=patrikholler&show_icons=true"
+    />
+</p>
